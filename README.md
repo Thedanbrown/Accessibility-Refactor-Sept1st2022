@@ -6,6 +6,9 @@ This Repository contains a webpage refactored for accessibility. All semantic HT
 
 Links:
 
+[Deployed Website](https://thedanbrown.github.io/Accessibility-Refactor-Sept1st2022/)
+[Repository](https://github.com/Thedanbrown/Accessibility-Refactor-Sept1st2022)
+
 Usage:
 
 once deployed, the webpage can be viewed in a traditional browser. not optimised for different sized screens
