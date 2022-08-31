@@ -1,14 +1,12 @@
-# Accessibility-Refactor-Sept1st2022
+Accessibility-Refactor-Sept1st2022
 
-## Description
-
+Description:
 
 This Repository contains a webpage refactored for accessibility. All semantic HTML elements were updated from DIV to proper elements to match their usage. Images were given alt tags and CSS was condensed as needed to help with bloated code. This was done to help learn the process of properly setting up a page to maximize accessibility to a wider number of different users. 
 
-links:
+Links:
 
-
-## Usage
+Usage:
 
 once deployed, the webpage can be viewed in a traditional browser. not optimised for different sized screens
 
@@ -17,7 +15,7 @@ once deployed, the webpage can be viewed in a traditional browser. not optimised
     ```
 
 
-## License
+License:
 
 MIT License
 
