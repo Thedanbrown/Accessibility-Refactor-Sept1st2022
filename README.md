@@ -11,7 +11,7 @@ Usage:
 once deployed, the webpage can be viewed in a traditional browser. not optimised for different sized screens
 
    
- ![alt text](assets/images/horiseon-web-marketing.png)
+ ![alt text](./assets/images/horiseon-web-marketing.png)
 
 
 License:
